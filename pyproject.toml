@@ -21,4 +21,8 @@ pythonpath = ["."]
 
 [build-system]
 requires = ["poetry-core"]
+<<<<<<< HEAD
 build-backend = "poetry.core.masonry.api"]
+=======
+build-backend = ["poetry.core.masonry.api"]
+>>>>>>> upstream/main
